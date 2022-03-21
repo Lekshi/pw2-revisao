@@ -1,9 +1,9 @@
 public class ExercicioUmW {
 
 	public static void main(String[] args) {
-		String nome = "wanderlei ";
-		String sobrenome = "luis" ;
-		String idade = "16";
+		String nome = "Marsh ";
+		String sobrenome = "Pedro" ;
+		String idade = "trabson";
 		System.out.println(nome + sobrenome + " Sua idade é: " + idade);
 	}
 }
